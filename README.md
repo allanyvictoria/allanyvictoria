@@ -14,7 +14,7 @@
 ---
 ## 🤝 Connect with me:
 - e-mail: allanyvictoriasantos13@hotmail.com
-- linkedin: www.linkedin.com/in/allanyvictoria
+- [linkedin](www.linkedin.com/in/allanyvictoria)
 
 ---
 ✨ Obrigada por visitar meu perfil! Explore meus repositórios e sinta-se à vontade para contribuir ou se conectar. 💻  
