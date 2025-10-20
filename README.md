@@ -1,7 +1,7 @@
 # Oi oi gente, sejam bem-vindos! 👋  
 
 👩🏽‍💻 **Me chamo Allany Victoria**  
-📚 **Sou estudante de Engenharia de Computação** no 3º semestre pela UEFS.  
+📚 **Sou estudante de Engenharia de Computação** no 4º semestre pela UEFS.  
 🤖 **Apaixonada por tecnologia e inovação**, sempre em busca de novos desafios.  
 💬 **Pergunte-me algo** caso tenha dúvidas ou queira saber mais sobre meus projetos!  
 📫 **Entre em contato comigo** via e-mail.  
