@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 Tecnologias e Ferramentas  
-- **Linguagens**: Python, C, Java, Verilog
+- **Linguagens**: Python, C, Java, Golang, Verilog
 ---
 ## 🤝 Connect with me:
 - e-mail: allanyvictoriasantos13@hotmail.com
