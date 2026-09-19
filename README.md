@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=1F2328&center=true&vCenter=true&width=620&height=60&repeat=false&lines=%3CAllany+Victoria+%2F%3E" alt="Allany Victoria" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=F472B6&center=true&vCenter=true&width=620&height=40&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Backend+Developer+em+forma%C3%A7%C3%A3o;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Estudante de Engenharia de Computação · Developer em formação · Construindo projetos e aprendendo todos os dias" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=F472B6&center=true&vCenter=true&width=620&height=40&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Developer+em+forma%C3%A7%C3%A3o;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Estudante de Engenharia de Computação · Developer em formação · Construindo projetos e aprendendo todos os dias" />
 
 <br/>
 
